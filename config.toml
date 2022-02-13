@@ -33,13 +33,13 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "A community platform for critical thinkers."
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = ""
+    customImage = "images/bible.png"
 
   # social media profile urls for the footer links
   facebook   = ""
