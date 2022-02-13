@@ -1,4 +1,3 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Bible Believers Western Cape'
-theme = 'bilberry'
+title = 'My New Hugo Site'
