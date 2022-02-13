@@ -1,3 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bible Believers Western Cape'
+
+[module]
+  [[module.imports]]
+    path = "github.com/Lednerb/bilberry-hugo-theme"
+    disable = false
+  [[module.imports.mounts]]
+    source = "bbwc"
+    target = "assets/bbwc"
